@@ -1,8 +1,11 @@
-# DSAI Linear Algebra × Agent AI (GATE-DA Ready)
+# Linear Algebra × Agent AI
 
-Learn & revise **GATE-DA Linear Algebra** by building tiny **Agent AI** components using pure **NumPy/SciPy**.  
+Learn **Engineering Maths** by building tiny **Agent AI** components using pure **NumPy/SciPy**.  
 No API keys, no cloud. Each math topic powers a concrete agent behavior (routing, ranking, memory projection, planning, safety, summarization).
 
+---
+Will keep on adding other topics - Calculus, Probability and Statistics etc. to this, 
+You can also contribute to make this existing repository better or to add topics
 ---
 
 ## 📂 What’s inside
