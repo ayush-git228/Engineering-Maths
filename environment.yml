@@ -4,7 +4,7 @@
 # `environment.yml`
 
 ```yaml
-name: dsai-la-agent
+name: eng-maths-agent
 channels:
   - conda-forge
 dependencies:
