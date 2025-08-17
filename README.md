@@ -4,8 +4,12 @@ Learn **Engineering Maths** by building tiny **Agent AI** components using pure 
 No API keys, no cloud. Each math topic powers a concrete agent behavior (routing, ranking, memory projection, planning, safety, summarization).
 
 ---
-Will keep on adding other topics - Calculus, Probability and Statistics etc. to this, 
-You can also contribute to make this existing repository better or to add topics
+🤝 Contributing
+
+I welcome all kinds of contributions - bug fixes 🐛, new features ✨, docs 📖, tests ✅, and ideas 💡.
+I will keep on adding other topics for ex. Calculus, Probability and Statistics etc. to this, 
+You can also contribute to make this existing repository better.
+
 ---
 
 ## 📂 What’s inside
