@@ -1,4 +1,4 @@
-# Linear Algebra × Agent AI
+# Engineering Mathematics (Linear Algebra × Agent AI)
 
 Learn **Engineering Maths** by building tiny **Agent AI** components using pure **NumPy/SciPy**.  
 No API keys, no cloud. Each math topic powers a concrete agent behavior (routing, ranking, memory projection, planning, safety, summarization).
