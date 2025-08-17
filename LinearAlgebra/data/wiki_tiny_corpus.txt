@@ -1,0 +1,6 @@
+Linear algebra underpins embeddings and similarity search.
+Projections help agents keep only task-relevant context.
+SVD captures dominant topics for compression and summarization.
+Eigenvectors enable ranking flows like PageRank for actions.
+Least squares fits linear decision models for planners.
+Quadratic forms encode safety or preference penalties for actions.
