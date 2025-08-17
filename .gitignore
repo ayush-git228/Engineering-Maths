@@ -1,0 +1,74 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Byte-compiled / cache
+*.log
+*.pot
+*.pyc
+*.pkl
+*.pickle
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Build / dist
+build/
+dist/
+pip-wheel-metadata/
+*.whl
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoint
+
+# Jupyter autosave
+*~autosave.ipynb
+
+# Data / Datasets (keeping commented for now)
+# data/*.csv
+# data/*.txt
+# !data/ratings_tiny.csv
+# !data/wiki_tiny_corpus.txt
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+*.code-workspace
+
+# -------------------------
+# Tests / Coverage
+# -------------------------
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.dmypy.json
+.cache/
+
+# -------------------------
+# Misc
+# -------------------------
+*.bak
+*.swp
+*.swo
+*.tmp
