@@ -11,13 +11,6 @@ __pycache__/
 *.manifest
 *.spec
 
-# Byte-compiled / cache
-*.log
-*.pot
-*.pyc
-*.pkl
-*.pickle
-
 # Virtual environments
 .env
 .venv
@@ -52,9 +45,7 @@ pip-wheel-metadata/
 .idea/
 *.code-workspace
 
-# -------------------------
 # Tests / Coverage
-# -------------------------
 .coverage
 htmlcov/
 .tox/
@@ -64,11 +55,3 @@ htmlcov/
 .pyre/
 .dmypy.json
 .cache/
-
-# -------------------------
-# Misc
-# -------------------------
-*.bak
-*.swp
-*.swo
-*.tmp
